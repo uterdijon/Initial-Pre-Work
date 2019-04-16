@@ -1,0 +1,11 @@
+/* I learned that all other elements on the page will inherit from the body element. */
+<style>
+  body {
+    background-color: black;
+    color: green;
+    font-family: monospace;
+  }
+
+</style>
+
+<h1>Hello World</h1>

@@ -1,0 +1,17 @@
+/* I learned that the order of the class declarations in the style block is important. The class lower down will take precedence over the class higher up. */
+
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+
+  .blue-text {
+    color: blue;
+  }
+</style>
+<h1 class="pink-text blue-text">Hello World!</h1>

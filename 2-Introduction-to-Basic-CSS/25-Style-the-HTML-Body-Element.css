@@ -1,0 +1,7 @@
+/* I learned that every HTML page has a body element that can be styled. */
+
+<style>
+body {
+  background-color: black;
+}
+</style>

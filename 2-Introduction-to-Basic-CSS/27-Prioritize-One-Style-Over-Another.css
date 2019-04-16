@@ -1,0 +1,14 @@
+/* I learned that classes have a hierarchy. For example a specific class applied to an element will override the body element. */
+
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+
+  .pink-text {
+    color: pink;
+  }
+</style>
+<h1 class="pink-text">Hello World!</h1>
