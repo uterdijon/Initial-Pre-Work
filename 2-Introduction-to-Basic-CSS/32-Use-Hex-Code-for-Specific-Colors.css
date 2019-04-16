@@ -1,0 +1,7 @@
+/* I learned that we can use hex codes (composed of 6 hexadecimal numbers) to represent colors */
+
+<style>
+  body {
+    background-color: #000000;
+  }
+</style>

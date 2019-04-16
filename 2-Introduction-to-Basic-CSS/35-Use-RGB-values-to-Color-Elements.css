@@ -1,0 +1,7 @@
+/* I learned that we can also specify colors using the format rgb(n, n, n). */
+
+<style>
+  body {
+    background-color: rgb(0, 0, 0);
+  }
+</style>
