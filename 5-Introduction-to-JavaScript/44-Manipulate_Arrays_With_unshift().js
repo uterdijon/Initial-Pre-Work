@@ -1,4 +1,4 @@
-The function unshift() appends an item to the beginning of an array. */
+/*The function unshift() appends an item to the beginning of an array. */
 
 // Example
 var ourArray = ["Stimpson", "J", "cat"];
